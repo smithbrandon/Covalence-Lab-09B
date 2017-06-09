@@ -1,0 +1,18 @@
+.roundedCorners(@radius: 15px) {
+    -moz-border-radius: @radius;
+    -webkit-border-radius: @radius;
+    border-radius: @radius;
+}
+
+.dice{
+    border: 1px solid black;
+    float: left;
+    font-size: 24px;
+    height: 60px;
+    line-height: 60px;
+    margin: 10px;
+    .roundedCorners();
+    text-align: center;
+    width: 60px;
+
+}
