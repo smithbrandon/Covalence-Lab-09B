@@ -1,5 +1,4 @@
 # Lab 09B - Dicey Business (TS, LESS)
-## [Demo Link](https://smithbrandon.github.io/Covalence-Lab-09B)
 
 ### Due Monday, May 12th
 This lab will combine principles of LESS and Typescript.
